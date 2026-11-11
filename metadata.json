@@ -1,0 +1,8 @@
+{
+  "name": "Grok AI",
+  "description": "AI Chatbot with Voice & Image Generation - Fast mobile web and assistant experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Grok AI</string>
+    <string name="default_web_url">https://x.ai</string>
+    <string name="app_tagline">Voice &amp; Image Generation</string>
+    <string name="offline_title">Connection Lost</string>
+    <string name="offline_subtitle">Unable to connect to Grok servers. Please check your internet connection.</string>
+    <string name="retry_button">Try Again</string>
+    <string name="settings_title">Configure Space / URL</string>
+    <string name="enter_url_label">Website or Space URL</string>
+    <string name="save">Save &amp; Load</string>
+    <string name="cancel">Cancel</string>
+    <string name="reset_default">Reset to Default</string>
+    <string name="mic_permission_title">Microphone Access Needed</string>
+    <string name="mic_permission_desc">Grok Voice Mode needs access to your microphone to chat with you.</string>
+    <string name="grant_permission">Allow</string>
+    <string name="downloading_file">Downloading file…</string>
+    <string name="download_complete">Download started</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="cache_cleared">Cache cleared successfully</string>
+</resources>
