@@ -98,7 +98,6 @@ fun GrokWebView(
         settings.apply {
           javaScriptEnabled = true
           domStorageEnabled = true
-          databaseEnabled = true
           allowFileAccess = true
           allowContentAccess = true
           mediaPlaybackRequiresUserGesture = false
